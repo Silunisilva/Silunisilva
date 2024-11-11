@@ -27,7 +27,7 @@ I'm a Software engineering undergraduate, who enjoys engaging in challenges, lea
 Here's what I’m working with:
 
 - **Languages**:
-- 
+  
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -37,19 +37,19 @@ Here's what I’m working with:
   
 
 - **Web**:
-- 
+  
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
    ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
    ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
 - **Database**:
-- 
+  
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 - **Tools**:
-- 
+ 
   ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
    ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -60,8 +60,8 @@ Here's what I’m working with:
 ## 🌱 Currently Learning
 
 - **Machine Learning** & AI 🤖
-- **Cloud Computing** with AWS & GCP ☁️
-- Exploring **Web3** and **Blockchain** 🌐
+- **Cloud Computing** with AWS ☁️
+- Exploring **Cloud** 🌐
 
 ---
 
