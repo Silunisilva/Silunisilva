@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Siluni
+
 
 <!--
 **Silunisilva/Silunisilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,45 +14,80 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there! I'm [Your Name] 👋
+# Hey there! I'm Siluni 👋✨
 
-Welcome to my GitHub profile! I'm a passionate developer focused on building cool things and continuously learning new technologies. Below is a bit more about me and my work.
+Welcome to my GitHub profile! I'm a passionate developer, explorer, and problem solver. I love building new things and diving into exciting projects. Here's a little more about me! 😊
 
 ## 🚀 About Me
 
-I'm a [Your Role], currently learning and exploring new things in the world of programming. I specialize in [Tech Stack], and I'm always excited about new challenges.
+I'm a Software engineering undergraduate, who enjoys engaging in challenges, learning new things every day, and contributing to the open-source community. 
 
 ### 🛠️ Technologies & Tools
 
-- **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-- **Web**: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-- **Database**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-- **Dev Tools**: ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+Here's what I’m working with:
 
-## 🌱 Currently Learning
+- **Languages**: 
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E) 
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-- Cloud Development with **AWS** ☁️
-- **Machine Learning** & AI 🤖
-- Building scalable microservices architectures 🏗️
+- **Web**: 
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) 
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
+  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
-## 🔥 GitHub Stats
+- **Database**: 
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical)
-
-## 📣 Let's Connect!
-
-Feel free to reach out or connect with me on:
-
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)
-- [Twitter](https://twitter.com/your-twitter-handle) ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white)
-- [Email](mailto:your-email@example.com) ![Email](https://img.shields.io/badge/Email-%23D44638?style=flat&logo=gmail&logoColor=white)
-
-## 📝 Recent Blog Posts
-
-- [How to Build a Full-Stack App in 24 Hours](https://your-blog.com/full-stack-app-24-hours)
-- [The Best Tools for a Developer's Workflow](https://your-blog.com/best-tools)
-- [The Power of Docker in Modern Development](https://your-blog.com/docker-power)
+- **Tools**: 
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white) 
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) 
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
+  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-Thanks for visiting my profile! 😄 Let's create something amazing! ✨
+## 🌱 Currently Learning
+
+- **Machine Learning** & AI 🤖
+- **Cloud Computing** with AWS & GCP ☁️
+- Exploring **Web3** and **Blockchain** 🌐
+
+---
+
+## 📈 GitHub Stats
+
+Here’s a little peek at my GitHub activity:
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical)
+
+---
+
+## 📣 Let’s Connect! 🧑‍🤝‍🧑
+
+I’d love to chat, collaborate, or just connect! Feel free to reach out to me:
+
+- [LinkedIn](https://www.linkedin.com/in//siluni-silva-2b3780287/) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)
+- [Email](mailto:silunisilva2@gmail.com) ![Email](https://img.shields.io/badge/Email-%23D44638?style=flat&logo=gmail&logoColor=white)
+
+---
+
+
+
+---
+
+
+
+## Thanks for Visiting! 🌟
+
+Feel free to explore my repos, check out my projects, or say hi! I’m always up for new challenges, cool collaborations, and learning from others. Let’s build something amazing together! 🚀🌍
+
+---
+
+💡 **Inspiration**: "Success is the sum of small efforts, repeated day in and day out." — Robert Collier
+
