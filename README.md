@@ -72,7 +72,7 @@ Here’s a little peek at my GitHub activity:
 
 I’d love to chat, collaborate, or just connect! Feel free to reach out to me:
 
-- (https://www.linkedin.com/in//siluni-silva-2b3780287/) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)
+- [LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white) !(https://www.linkedin.com/in//siluni-silva-2b3780287/)
 - [Email](mailto:silunisilva2@gmail.com) ![Email](https://img.shields.io/badge/Email-%23D44638?style=flat&logo=gmail&logoColor=white)
 
 ---
