@@ -30,7 +30,6 @@ Here's what I’m working with:
   
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
   ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
    ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
    ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
@@ -77,8 +76,8 @@ Here’s a little peek at my GitHub activity:
 
 I’d love to chat, collaborate, or just connect! Feel free to reach out to me:
 
-- [LinedIn](https://www.linkedin.com/in//siluni-silva-2b3780287/) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white) 
-- [Email](mailto:silunisilva2@gmail.com) ![Email](https://img.shields.io/badge/Email-%23D44638?style=flat&logo=gmail&logoColor=white)
+- [LinedIn](https://www.linkedin.com/in//siluni-silva-2b3780287/)![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white) 
+- [Email](mailto:silunisilva2@gmail.com)![Email](https://img.shields.io/badge/Email-%23D44638?style=flat&logo=gmail&logoColor=white)
 
 ---
 
