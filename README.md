@@ -14,80 +14,79 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Welcome to My GitHub Profile!
+# 👋 Hello, I'm Siluni Silva  
 
-I’m **Siluni Silva**, a passionate **Software Engineering Undergraduate** with a drive to innovate, problem-solve, and create meaningful technology solutions. Welcome to my journey in tech! 🚀
-
----
-
-## 🚀 About Me
-
-I specialize in software development, machine learning, and cloud computing. My focus is on building scalable, user-centric applications and contributing to the open-source community. Collaboration and continuous learning fuel my growth as a developer.
+Welcome to my GitHub profile! I'm a **Software Engineering Undergraduate** passionate about developing innovative solutions, exploring emerging technologies, and contributing to impactful projects. 🚀  
 
 ---
 
-## 🔭 I’m Currently Working On...
+## 🌟 About Me  
 
-I’m engaged in several exciting projects.
----
-
-## 🛠️ Technical Skills
-
-### **Programming Languages**
-- 🐍 **Python**: Advanced scripting and backend development.  
-- 🌐 **JavaScript**: Dynamic web development.  
-- ☕ **Java**: Robust application building.  
-- 🖥️ **C**: Systems programming.  
-- 📱 **Flutter**: Cross-platform app development.  
-
-### **Web Development**
-- ⚛️ **React**: Dynamic and responsive user interfaces.  
-- 🌱 **Node.js**: Scalable backend services.  
-- ➡️ **Next.js**: Server-side rendering for optimized web apps.  
-
-### **Databases**
-- 🍃 **MongoDB**: NoSQL database for modern apps.  
-- 🐘 **PostgreSQL**: Reliable relational database solutions.  
-- 🐬 **MySQL**: Structured data management.  
-
-### **Development Tools**
-- 🛠️ **Git**: Version control and collaboration.  
-- 🎨 **VS Code**: Streamlined code editing.  
-- 📱 **Android Studio**: Mobile app development.  
-- 🧩 **PyCharm**: Python-focused development environment.  
+- 📚 **Learner**: Constantly exploring new tools and technologies.  
+- 🤝 **Collaborator**: I thrive on teamwork and open-source contributions.  
+- 🌍 **Visionary**: Committed to creating software that makes a difference.  
 
 ---
 
-## 🌱 Currently Learning
+## 🔭 I’m Currently Working On  
 
-- 🤖 Advanced **Machine Learning** and AI  
-- ☁️ **AWS Cloud Computing** for scalable systems  
+I’m actively engaged in:  
 
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SiluniSilva&show_icons=true&count_private=true&hide_border=true&theme=radical)
+- 🌐 Developing a **Skill Marketplace** connecting learners and experts.  
+- 🤖 Exploring **Homomorphic Encryption** for AI-powered cloud applications.  
+- 📱 Creating **cross-platform mobile apps** with Flutter.  
 
 ---
 
-## 📣 Let's Connect
+## 🛠️ My Toolkit  
 
-🤝 I’m open to collaborations, mentorship, and discussions. You can connect with me through:  
+### **Programming Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+
+### **Web Development**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+
+### **Databases**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+
+### **Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
+
+---
+
+## 🌱 Currently Learning  
+
+- 🤖 Machine Learning and Artificial Intelligence  
+- ☁️ Cloud Computing with AWS  
+- 🔗 Blockchain Technology  
+
+---
+
+## 📈 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SiluniSilva&show_icons=true&count_private=true&hide_border=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SiluniSilva&layout=compact&hide_border=true&theme=radical)  
+
+---
+
+## 📬 Let's Connect  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/siluni-silva-2b3780287/)  
-- 📧 [Email](mailto:silunisilva2@gmail.com)  
+- 📧 [Email Me](mailto:silunisilva2@gmail.com)  
 
 ---
 
-## 💡 Inspiration
+💡 *"Success is the sum of small efforts, repeated day in and day out."* — **Robert Collier**  
 
-*"Success is the sum of small efforts, repeated day in and day out."*  
-— **Robert Collier**
-
----
-
-Thank you for stopping by! Feel free to explore my projects and reach out. Let’s build something extraordinary together! ✨
-
+Thank you for visiting my profile! Feel free to explore my repositories and connect for exciting collaborations. 🌟
 
