@@ -30,8 +30,7 @@ I am a highly motivated individual with a deep interest in **software developmen
 
 I am currently working on several exciting projects, including:
 
-- Developing a **personalized skill marketplace** to connect individuals with opportunities.  
-- Building an **educational content platform** for effective learning and collaboration.  
+- Developing a **HR Management System** to feasible HR management processes.  
 - Exploring the integration of **homomorphic encryption** in **AI cloud-based applications** to enhance data security.  
 
 ---
