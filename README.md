@@ -28,12 +28,7 @@ I specialize in software development, machine learning, and cloud computing. My 
 
 ## 🔭 I’m Currently Working On...
 
-I’m engaged in several exciting projects, including:
-
-- 🚀 Developing a **personalized skill marketplace** to connect learners and experts.  
-- 🌐 Building an **educational content platform** to foster collaboration and learning.  
-- 🔒 Exploring **homomorphic encryption** in **AI cloud applications** for enhanced security.  
-
+I’m engaged in several exciting projects.
 ---
 
 ## 🛠️ Technical Skills
@@ -67,7 +62,7 @@ I’m engaged in several exciting projects, including:
 
 - 🤖 Advanced **Machine Learning** and AI  
 - ☁️ **AWS Cloud Computing** for scalable systems  
-- 🔗 Exploring **Blockchain Technology**  
+
 
 ---
 
