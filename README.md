@@ -14,84 +14,85 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hey There! I'm Siluni 👋✨
+# 👋 Welcome to My GitHub Profile! 
 
-Welcome to my GitHub profile! I'm a passionate developer, explorer, and problem solver. I love building new things and diving into exciting projects. Here's a little more about me! 😊
+I’m **Siluni Silva**, a dedicated **Software Engineering Undergraduate** with a strong passion for innovation, problem-solving, and building impactful solutions. This repository showcases my work, interests, and ongoing projects in the tech world.
+
+---
 
 ## 🚀 About Me
 
-I'm a Software engineering undergraduate, who enjoys engaging in challenges, learning new things every day, and contributing to the open-source community. 
+I am a highly motivated individual with a deep interest in **software development**, **machine learning**, and **cloud technologies**. My goal is to leverage technology to create meaningful and scalable solutions. I actively engage in open-source contributions and enjoy collaborating with others to tackle challenges and bring ideas to life.
 
-### 🛠️ Technologies & Tools
+---
 
-Here's what I’m working with:
+## 🔭 I’m Currently Working On...
 
-- **Languages**:
-  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)
-  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-   ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-   ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-  
+I am currently working on several exciting projects, including:
 
-- **Web**:
-  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-   ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+- Developing a **personalized skill marketplace** to connect individuals with opportunities.  
+- Building an **educational content platform** for effective learning and collaboration.  
+- Exploring the integration of **homomorphic encryption** in **AI cloud-based applications** to enhance data security.  
 
-- **Database**:
-  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+---
 
-- **Tools**:
- 
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+## 🛠️ Technical Skills
+
+### **Programming Languages**
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+- ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+### **Web Development**
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+
+### **Databases**
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### **Development Tools**
+- ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+- ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🌱 Currently Learning
 
-- **Machine Learning** & AI 🤖
-- **Cloud Computing** with AWS ☁️
-- Exploring **Cloud** 🌐
+- Advanced **Machine Learning** and AI Techniques  
+- **Cloud Computing** with AWS  
+- Exploring **Blockchain Technology**  
 
 ---
 
 ## 📈 GitHub Stats
 
-Here’s a little peek at my GitHub activity:
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SiluniSilva&show_icons=true&count_private=true&hide_border=true&theme=radical)
 
 ---
 
-## 📣 Let’s Connect! 🧑‍🤝‍🧑
+## 📣 Let's Connect
 
-I’d love to chat, collaborate, or just connect! Feel free to reach out to me:
+I am always open to collaboration, mentorship, and sharing knowledge. Feel free to connect with me through the following platforms:
 
-- [LinedIn](https://www.linkedin.com/in//siluni-silva-2b3780287/)![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white) 
-- [Email](mailto:silunisilva2@gmail.com)![Email](https://img.shields.io/badge/Email-%23D44638?style=flat&logo=gmail&logoColor=white)
-
----
-
-
+- [LinkedIn](https://www.linkedin.com/in/siluni-silva-2b3780287/)  
+- [Email](mailto:silunisilva2@gmail.com)  
 
 ---
 
+## 💡 Quote to Live By
 
-
-## Thanks for Visiting! 🌟
-
-Feel free to explore my repos, check out my projects, or say hi! I’m always up for new challenges, cool collaborations, and learning from others. Let’s build something amazing together! 🚀🌍
+> *"Success is the sum of small efforts, repeated day in and day out."*  
+> — **Robert Collier**
 
 ---
 
-💡 **Inspiration**: "Success is the sum of small efforts, repeated day in and day out." — Robert Collier
+Thank you for visiting my GitHub profile. Feel free to explore my repositories and reach out to discuss collaboration opportunities or any interesting ideas. Let's build something remarkable together!
+
 
