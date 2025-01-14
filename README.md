@@ -63,7 +63,7 @@ Welcome to my GitHub profile! I'm a **Software Engineering Undergraduate** passi
 
 - 🤖 Machine Learning and Artificial Intelligence  
 - ☁️ Cloud Computing with AWS  
-- 🔗 Blockchain Technology  
+
 
 ---
 
