@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm a **Software Engineering Undergraduate** passi
 
 ## 🌱 Currently Learning  
 
-- 🤖 Machine Learning and Artificial Intelligence  
+- Python, React 
 - ☁️ Cloud Computing with AWS  
 
 
