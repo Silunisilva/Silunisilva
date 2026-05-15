@@ -88,10 +88,20 @@ const siluni = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SiluniSilva&show_icons=true&count_private=true&hide_border=true&theme=chartreuse-dark&bg_color=0a0e1a&title_color=1D9E75&icon_color=1D9E75&text_color=B4B2A9&ring_color=1D9E75" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiluniSilva&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=0a0e1a&title_color=1D9E75&text_color=B4B2A9" />
+<!-- Stats card via github-readme-stats (self-hostable, most reliable) -->
+<a href="https://github.com/SiluniSilva">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=SiluniSilva&show_icons=true&count_private=true&hide_border=true&bg_color=0a0e1a&title_color=1D9E75&icon_color=1D9E75&text_color=B4B2A9&ring_color=1D9E75&include_all_commits=true&cache_seconds=1800" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiluniSilva&layout=compact&hide_border=true&bg_color=0a0e1a&title_color=1D9E75&text_color=B4B2A9&langs_count=8&cache_seconds=1800" />
+</a>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=SiluniSilva&theme=chartreuse-dark&hide_border=true&background=0a0e1a&stroke=1D9E75&ring=1D9E75&fire=5DCAA5&sideNums=B4B2A9&sideLabels=5F5E5A&dates=5F5E5A&currStreakLabel=1D9E75&currStreakNum=ffffff" />
+</div>
+
+<div align="center">
+
+<!-- Streak stats — uses its own reliable service -->
+<a href="https://git.io/streak-stats">
+  <img width="68%" src="https://streak-stats.demolab.com?user=SiluniSilva&theme=dark&hide_border=true&background=0a0e1a&stroke=1D9E75&ring=1D9E75&fire=5DCAA5&sideNums=ffffff&sideLabels=5F5E5A&dates=5F5E5A&currStreakLabel=1D9E75&currStreakNum=1D9E75" />
+</a>
 
 </div>
 
@@ -101,7 +111,7 @@ const siluni = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=SiluniSilva&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=SiluniSilva&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -111,7 +121,7 @@ const siluni = {
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SiluniSilva&theme=react-dark&bg_color=0a0e1a&color=1D9E75&line=1D9E75&point=5DCAA5&area=true&area_color=1D9E75&hide_border=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SiluniSilva&theme=react-dark&bg_color=0a0e1a&color=1D9E75&line=1D9E75&point=5DCAA5&area=true&area_color=1D9E75&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
