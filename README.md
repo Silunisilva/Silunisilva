@@ -1,42 +1,53 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=1D9E75&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=software+engineer+%F0%9F%92%BB;frontend+developer+%E2%9A%A1;final+year+undergrad+%F0%9F%8E%93;open+to+collaborate+%F0%9F%A4%9D)
+<!-- ANIMATED HERO BANNER -->
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0,0a0e1a,20,1D9E75,100,0a0e1a&height=280&section=header&text=Siluni%20Silva&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=Software%20Engineer%20%C2%B7%20Frontend%20Developer%20%C2%B7%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlignY=65&descSize=16&animation=twinkling)
+
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=1D9E75&center=true&vCenter=true&width=640&lines=building+beautiful+frontends+%E2%9A%A1;shipping+React+%26+Next.js+in+production;final+year+Software+Engineering+%F0%9F%8E%93;learning+AWS+Cloud+%E2%98%81%EF%B8%8F;open+to+collaborate+%F0%9F%A4%9D)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- LIVE BADGES -->
+![Profile Views](https://komarev.com/ghpvc/?username=SiluniSilva&style=for-the-badge&color=1D9E75&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/SiluniSilva?style=for-the-badge&color=1D9E75&labelColor=0a0e1a&label=FOLLOWERS)
+![GitHub stars](https://img.shields.io/github/stars/SiluniSilva?style=for-the-badge&color=1D9E75&labelColor=0a0e1a&label=STARS)
 
 </div>
 
 ---
 
-# Hey, I'm Siluni Silva 👋
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-> **Final-Year Software Engineering Undergrad · Junior Frontend Developer · Sri Lanka 🇱🇰**
+### Hey there, I'm Siluni 👋
 
-Building polished, high-quality web frontends by day — studying, learning, and shipping by night. I work at the intersection of clean design and solid engineering.
-
-<img src="https://komarev.com/ghpvc/?username=SiluniSilva&style=flat-square&color=1D9E75&label=Profile+Views" alt="Profile views" />
-
----
-
-## 🟢 Status — What I'm Up To
-
-```text
-💼  Role         Junior Frontend Developer (active)
-🎓  Degree       Software Engineering — Final Year
-⚛️  Daily Stack  React · Next.js · JavaScript · CSS
-☁️  Learning     AWS Cloud Computing fundamentals
-🌏  Location     Sri Lanka
-🤝  Open to      Collabs, open source, internships
+```typescript
+const siluni = {
+  role:      "Junior Frontend Developer",
+  degree:    "Software Engineering — Final Year",
+  location:  "Sri Lanka 🇱🇰",
+  stack:     ["React", "Next.js", "JavaScript", "CSS"],
+  learning:  ["AWS Cloud", "Python", "Advanced React"],
+  openTo:    ["collabs", "open-source", "internships"],
+  funFact:   "I debug with console.log and I'm not ashamed"
+};
 ```
+
+<br clear="right"/>
 
 ---
 
 ## ⚡ Tech Stack
 
+<div align="center">
+
 ### Frontend — Primary Focus
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -47,14 +58,29 @@ Building polished, high-quality web frontends by day — studying, learning, and
 ### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Cloud
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+</div>
+
+---
+
+## 🟢 Current Status
+
+```text
+💼  Role        Junior Frontend Developer           [ACTIVE]
+🎓  Degree      Software Engineering Final Year     [IN PROGRESS]
+⚛️  Daily       React · Next.js · JavaScript · CSS  [SHIPPING]
+☁️  Learning    AWS Cloud Computing                 [EXPLORING]
+🤝  Status      Open to collaborations              [AVAILABLE]
+📍  Location    Sri Lanka 🇱🇰                       [GMT+5:30]
+```
 
 ---
 
@@ -62,11 +88,10 @@ Building polished, high-quality web frontends by day — studying, learning, and
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SiluniSilva&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=1D9E75&icon_color=1D9E75&text_color=ffffff)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SiluniSilva&show_icons=true&count_private=true&hide_border=true&theme=chartreuse-dark&bg_color=0a0e1a&title_color=1D9E75&icon_color=1D9E75&text_color=B4B2A9&ring_color=1D9E75" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiluniSilva&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=0a0e1a&title_color=1D9E75&text_color=B4B2A9" />
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SiluniSilva&theme=radical&hide_border=true&background=0d1117&stroke=1D9E75&ring=1D9E75&fire=ff6b6b&currStreakLabel=1D9E75)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SiluniSilva&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=1D9E75&text_color=ffffff)
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=SiluniSilva&theme=chartreuse-dark&hide_border=true&background=0a0e1a&stroke=1D9E75&ring=1D9E75&fire=5DCAA5&sideNums=B4B2A9&sideLabels=5F5E5A&dates=5F5E5A&currStreakLabel=1D9E75&currStreakNum=ffffff" />
 
 </div>
 
@@ -76,7 +101,7 @@ Building polished, high-quality web frontends by day — studying, learning, and
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=SiluniSilva&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=SiluniSilva&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6)
 
 </div>
 
@@ -86,7 +111,7 @@ Building polished, high-quality web frontends by day — studying, learning, and
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SiluniSilva&theme=react-dark&bg_color=0d1117&color=1D9E75&line=1D9E75&point=ffffff&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SiluniSilva&theme=react-dark&bg_color=0a0e1a&color=1D9E75&line=1D9E75&point=5DCAA5&area=true&area_color=1D9E75&hide_border=true)
 
 </div>
 
@@ -94,22 +119,22 @@ Building polished, high-quality web frontends by day — studying, learning, and
 
 ## 🌱 Currently Learning
 
-| Area | Progress |
-|---|---|
-| ⚛️ React & Next.js (Advanced) | `████████░░` 80% |
-| ☁️ AWS Cloud Computing | `█████░░░░░` 50% |
-| 🐍 Python (Data & Backend) | `███████░░░` 70% |
+```
+React & Next.js (Advanced)  ████████░░  80%
+AWS Cloud Computing         █████░░░░░  50%
+Python (Data & Backend)     ███████░░░  70%
+```
 
 ---
 
 ## 🤝 About Me
 
 - 🎓 **Final year** Software Engineering undergrad — almost at the finish line
-- 💼 Working professionally as a **Junior Frontend Developer**, shipping real products
-- ⚛️ My daily stack: **React · Next.js · JavaScript**
+- 💼 Working as a **Junior Frontend Developer**, shipping real production frontends
+- ⚛️ Daily stack: **React · Next.js · JavaScript**
 - 🌱 Lifelong learner — always levelling up
-- 🤝 Big on teamwork and open-source contributions
-- 🌍 Goal: build software that makes a real difference
+- 🤝 Love open-source collaboration and teamwork
+- 🌍 Building software that makes a real difference
 
 ---
 
@@ -118,7 +143,7 @@ Building polished, high-quality web frontends by day — studying, learning, and
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Siluni%20Silva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siluni-silva-2b3780287/)
-[![Email](https://img.shields.io/badge/Gmail-silunisilva2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silunisilva2@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-silunisilva2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silunisilva2@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-SiluniSilva-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiluniSilva)
 
 </div>
@@ -129,6 +154,8 @@ Building polished, high-quality web frontends by day — studying, learning, and
 
 *"Success is the sum of small efforts, repeated day in and day out."* — **Robert Collier**
 
-⭐ Thanks for visiting — feel free to explore my repos and reach out for collaborations!
+<br/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0,0a0e1a,100,1D9E75&height=100&section=footer)
 
 </div>
